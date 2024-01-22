@@ -40,13 +40,7 @@
       />
       <br /><strong>HTML5</strong>
     </td>
-    <td align="center" height="40" width="40">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-        width="25"
-        height="25"
-        alt="CSS3"
-      />
+   
       <br /><strong>CSS3</strong>
     </td>
     <td align="center" height="40" width="40">
