@@ -86,11 +86,10 @@
     alt="Sass"
   />
   <br /><strong>Sass</strong>
-</td>
-   
- <br /><strong>CSS3</strong>
-    </td>
-    <td align="center" height="40" width="40">
+</td>  
+      <br /><strong>CSS3</strong>
+     </td>
+     <td align="center" height="40" width="40">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
         width="25"
