@@ -88,7 +88,7 @@
   <br /><strong>Sass</strong>
 </td>
    
-      <br /><strong>CSS3</strong>
+ <br /><strong>CSS3</strong>
     </td>
     <td align="center" height="40" width="40">
       <img
