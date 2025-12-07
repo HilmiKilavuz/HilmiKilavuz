@@ -37,12 +37,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
-<h2 align="center">📊 GitHub Statistics</h2>
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HilmiKilavuz&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9" alt="Hilmi Kılavuz's GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HilmiKilavuz&layout=compact&hide_border=true&bg_color=0d1117&title_color=00bfbf&text_color=c9d1d9" alt="Most Used Languages" />
-</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HilmiKilavuz&theme=algolia&row=1&column=6&margin-h=8&margin-w=8&no-bg=true" alt="GitHub Trophies" />
