@@ -39,10 +39,6 @@
 
 
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HilmiKilavuz&theme=algolia&row=1&column=6&margin-h=8&margin-w=8&no-bg=true" alt="GitHub Trophies" />
-</div>
-
 
 <br>
 
