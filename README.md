@@ -41,30 +41,30 @@
 
 <br>
 
-<h2 align="center">📂 Featured Projects</h2>
+<h2 align="center"> Featured Projects</h2>
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <h3>💼 Kariyerin Olsun</h3>
+        <h3> Kariyerin Olsun</h3>
         <p>An AI-powered interview preparation platform. Analyzes CVs, simulates real-time interviews, and provides deep performance reports using sentiment and voice analysis.</p>
         <p><i>React, Node.js, Supabase, OpenAI, TensorFlow, Docker, AWS</i></p>
       </td>
       <td width="50%">
-        <h3>🎟️ Cluber</h3>
+        <h3> Cluber</h3>
         <p>A full-stack university club management platform with role-based administration, real-time chat (Socket.IO), and event management.</p>
         <p><i>NestJS, Next.js, React Native, PostgreSQL, Docker</i></p>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3>🔐 NovaCrypt</h3>
+        <h3> NovaCrypt</h3>
         <p>A custom symmetric block cipher algorithm built from scratch utilizing a Substitution-Permutation Network (SPN) structure for enhanced data encryption.</p>
         <p><i>Cryptography, Algorithm Design</i></p>
       </td>
       <td width="50%">
-        <h3>📰 News App</h3>
+        <h3> News App</h3>
         <p>A modern Android application for browsing news with search and filtering capabilities, built with clean architecture.</p>
         <p><i>Kotlin, Jetpack Compose, MVVM, Retrofit, Room</i></p>
       </td>
@@ -74,13 +74,13 @@
 
 <br>
 
-<h2 align="center">🚀 Current Focus & Learning</h2>
+<h2 align="center"> Current Focus & Learning</h2>
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <h3>🛡️ Cyber Security</h3>
+        <h3> Cyber Security</h3>
         <ul>
           <li>Network Security</li>
           <li>Penetration Testing Tools (Nmap, Wireshark)</li>
@@ -99,7 +99,7 @@
   </table>
 </div>
 
-<h2 align="center">📫 Connect With Me</h2>
+<h2 align="center"> Connect With Me</h2>
 
 <div align="center">
   <a href="https://github.com/HilmiKilavuz">
