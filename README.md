@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hilmi%20Kılavuz&fontSize=70&fontAlignY=35&desc=Software%20Engineering%20|%20IT%20Enthusiast" />
 </div>
 
-<h2 align="center"> Software Engineering Student | IT & Cyber Security Enthusiast </h2>
+<h2 align="center"> Software Engineering Student | IT Enthusiast </h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
